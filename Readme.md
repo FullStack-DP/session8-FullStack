@@ -7,7 +7,7 @@
 <!-- - [Student’s Contribution to Industry 5.0](./material/industry50.md) -->
 
 - [What's next?](./material/what-next.md)
-- [The highest-ranking personal blogs](https://refactoringenglish.com/tools/hn-popularity/)
+- Personal Growth: [The highest-ranking personal blogs](https://refactoringenglish.com/tools/hn-popularity/)
 - [Security Bounty Resources](https://github.com/QwenLM/qwen-code)
 - Course  feedback
 
