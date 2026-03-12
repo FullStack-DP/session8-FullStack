@@ -185,8 +185,7 @@ docker start qwen-auto; docker exec -it qwen-auto bash
 
 ## Part 5 — Authenticate with Qwen OAuth
 
-Qwen Code gives you **free requests per day** if you sign in with a Qwen account. No API key needed.
-
+Qwen Code gives you free requests per day **if you sign in with a Qwen account**. No API key needed.  If you don’t have an account yet, please create one at https://qwen.ai/qwencode
 
 ```sh
 QWEN_OAUTH=1 qwen -p "Hello"
