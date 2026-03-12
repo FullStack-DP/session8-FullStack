@@ -40,9 +40,9 @@
 
 - **API Documentation with Swagger**  
   - [Summary](./material/be-summary.md)  
-  - [Activity 2](./material/be-activity2.md)  
-  - [Activity 1](./material/be-activity1.md)  
+  - [Activity](./material/be-activity2.md)  
   - Videos available upon request.  
+  <!-- - [Activity 1](./material/be-activity1.md)   -->
 
 - **UseReducer**  
   - [Summary](./material/fe2.md)  
