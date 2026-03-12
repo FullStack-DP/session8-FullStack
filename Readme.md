@@ -18,6 +18,7 @@
 - [What's next?](./material/what-next.md)
 - Personal Growth: [The highest-ranking personal blogs](https://refactoringenglish.com/tools/hn-popularity/)
 - [Security Bounty Resources](https://github.com/QwenLM/qwen-code)
+- [Qwen Lab](./material/qwen-lab.md)
 - Course  feedback
 
 -----
