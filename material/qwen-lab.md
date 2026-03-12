@@ -9,7 +9,7 @@
 ## Part 1 — Install Docker Desktop
 
 1. Download Docker Desktop from:
-   👉 https://www.docker.com/products/docker-desktop/
+   https://www.docker.com/products/docker-desktop/
 
 2. Run the installer. Accept the defaults.
 
