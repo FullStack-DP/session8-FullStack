@@ -3,9 +3,9 @@
 
 ### Topics
 
-- Custom hooks
-- Deploying MERN STACK app on Render
+- What's next?
 - Presentations
+- Exam
 
 -----
 
