@@ -132,7 +132,7 @@ You can combine both steps:
 docker start qwen-dev; docker exec -it qwen-dev bash
 ```
 
----
+<!-- ---
 
 ## Part 5 — Using a Dockerfile (Repeatable Setup)
 
@@ -179,9 +179,11 @@ Same as Part 4, but use the container name `qwen-auto`:
 docker start qwen-auto; docker exec -it qwen-auto bash
 ```
 
----
+--- -->
 
-## Part 6 — Authenticate with Qwen OAuth
+----
+
+## Part 5 — Authenticate with Qwen OAuth
 
 Qwen Code gives you **free requests per day** if you sign in with a Qwen account. No API key needed.
 
@@ -198,7 +200,7 @@ Qwen will display a URL. **Copy that URL** and open it in a browser **on your Wi
 Once you complete the browser flow, Qwen will detect the login and you're authenticated.
 
 > Your credentials are cached inside the container at `~/.qwen/`, so you usually won't need to log in again — as long as you reuse the same container.
-
+<!-- 
 **Alternative: API Key (if OAuth doesn't work in the container)**
 
 > In some Docker setups the OAuth browser flow may not work. In that case, use an API key instead.
@@ -237,11 +239,11 @@ EOF
 
 Replace `sk-YOUR-KEY-HERE` with your actual API key from [Alibaba Cloud ModelStudio](https://modelstudio.console.alibabacloud.com/).
 
-Then start `qwen` — it will use your key automatically.
+Then start `qwen` — it will use your key automatically. -->
 
 ---
 
-## Part 7 — Re-entering the Container (Summary)
+## Part 6 — Re-entering the Container (Summary)
 
 Every time you want to use Qwen Code again:
 
