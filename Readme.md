@@ -1,11 +1,20 @@
 # Session 8: FullStack
 
 
+### Topics
+
+- Custom hooks
+- Deploying MERN STACK app on Render
+- Presentations
+
+-----
+
 ### Morning: 
 
 
 <!-- - [Student’s Contribution to Industry 5.0](./material/industry50.md) -->
 
+- Presentations
 - [What's next?](./material/what-next.md)
 - Personal Growth: [The highest-ranking personal blogs](https://refactoringenglish.com/tools/hn-popularity/)
 - [Security Bounty Resources](https://github.com/QwenLM/qwen-code)
